@@ -1,6 +1,6 @@
 # LibreCrawl-SEO Tool
 
-This tool is not entirely Made my be I just made some small usefull changes.
+This tool is not entirely Made by my, I just made some small usefull changes.
 https://www.reddit.com/r/TechSEO/comments/1p049bi/i_got_frustrated_with_screamingfrog_crawler/
 
 A web-based multi-tenant crawler for SEO analysis and website auditing.
