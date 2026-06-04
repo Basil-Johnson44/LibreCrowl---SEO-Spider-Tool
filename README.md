@@ -1,5 +1,8 @@
 # LibreCrawl-SEO Tool
 
+This tool is not entirely Made my be I just made some small usefull changes.
+https://www.reddit.com/r/TechSEO/comments/1p049bi/i_got_frustrated_with_screamingfrog_crawler/
+
 A web-based multi-tenant crawler for SEO analysis and website auditing.
 
 **Demo no longer available cause people thought it was a prod environ, it isnt, it was a demo to get a taste before installing**
