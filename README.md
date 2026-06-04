@@ -1,14 +1,10 @@
-# LibreCrawl
+# LibreCrawl-SEO Tool
 
 A web-based multi-tenant crawler for SEO analysis and website auditing.
-
-🌐 **Website**: [librecrawl.com](https://librecrawl.com)
 
 **Demo no longer available cause people thought it was a prod environ, it isnt, it was a demo to get a taste before installing**
 
 **API Documentation:** [https://librecrawl.com/api/docs/](https://librecrawl.com/api/docs/)
-
-LibreCrawl will ***always*** be free and open source. If it's replacing your $259/year Screaming Frog license, deepcrawl license or sitebulb license, [buy me a coffee](https://www.paypal.com/donate/?business=7H9HFA3385JS8&no_recurring=0&item_name=Continue+the+development+of+LibreCrawl&currency_code=AUD).
 
 ## What it does
 
