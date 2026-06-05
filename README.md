@@ -4,7 +4,7 @@
 https://www.reddit.com/r/TechSEO/comments/1p049bi/i_got_frustrated_with_screamingfrog_crawler/
 
 **The Link to .exe formate of LibreCrowl-SEO Tool**
-https://drive.google.com/file/d/19UYbcR0OWGud-ZZkg1jNMu32g6JguxNK/view?usp=drive_link
+https://drive.google.com/file/d/19UYbcR0OWGud-ZZkg1jNMu32g6JguxNK/view?usp=sharing
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/3f6d13c7-a0ff-4c58-ae11-c0df24a1c228" />
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/9239f4c8-6e91-474f-b6d6-81ed26ee6d61" />
